@@ -2,27 +2,5 @@
   "versionCode": 1,
   "versionName": "1.0.0",
   "apkUrl": "https://github.com/shocklashuk/LegiaCar-Update/releases/download/v1.0.0/LegiaCar_v1.0.0.apk",
-  "changelog": "🚗 Legia Car v1.0.0
-
-Phiên bản đầu tiên chính thức.
-
-Tính năng:
-
-• HUD
-• Racing Mode
-• GPS Speed
-• ODO
-• Trip A
-• Trip B
-• Weather
-• Google Maps
-• YouTube
-• Split Screen
-• Chọn logo xe
-• Chọn ảnh xe
-• Chọn Racing Footer
-
-Đây là phiên bản nền tảng cho các bản cập nhật tiếp theo.
-
-Cảm ơn mọi người đã sử dụng Legia Car ❤️"
+  "changelog": "🚗 Legia Car v1.0.0"
 }
