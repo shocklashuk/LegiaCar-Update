@@ -4,5 +4,5 @@
   "image": "https://raw.githubusercontent.com/shocklashuk/LegiaCar-Update/refs/heads/main/thong_bao.PNG",
   "showOnUpdate": false,
   "targetVersionCode": 0,
-  "showEveryLaunch": true
+  "showEveryLaunch": false
 }
