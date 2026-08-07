@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "id": "update_186",
+  "image": "https://raw.githubusercontent.com/shocklashuk/LegiaCar-Update/refs/heads/main/thong_bao.PNG",
+  "showOnUpdate": true,
+  "targetVersionCode": 186,
+  "showEveryLaunch": false
+}
