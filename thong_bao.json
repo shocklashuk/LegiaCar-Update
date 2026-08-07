@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "id": "notice_002",
+  "enabled": true,
+  "id": "notice_001",
   "image": "https://raw.githubusercontent.com/shocklashuk/LegiaCar-Update/refs/heads/main/thong_bao.PNG",
   "showOnUpdate": false,
   "targetVersionCode": 0,
